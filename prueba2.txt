@@ -1,1 +1,2 @@
 Hola desde archivo prueba2
+Nueva sentencia
