@@ -20,3 +20,6 @@ inner join sys.master_files mf on mf.database_id=sp.database_id and mf.file_id=s
 --ALTER DATABASE DatawarehouseWorking SET SINGLE_USER
 --DBCC CHECKDB ('DatawarehouseWorking', REPAIR_REBUILD) WITH ALL_ERRORMSGS
 --ALTER DATABASE DatawarehouseWorking SET MULTI_USER
+
+
+-- AGREGO ALGO PARA EL BRANCH 1
